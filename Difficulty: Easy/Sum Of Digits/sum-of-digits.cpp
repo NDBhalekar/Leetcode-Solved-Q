@@ -1,14 +1,12 @@
 class Solution {
   public:
     int sumOfDigits(int n) {
-        // code here
+        int ans =0;
+       string s = to_string(n);
+       for(int i=0;i<s.size();i++){
+           ans += s[i] - '0';
+       }
+       return ans;
         
-        string s = to_string(n);
-        int ans = 0;
-        for(int i=0;i<s.size();i++){
-            int a = s[i] - '0';
-            ans+=a;
-        }
-        return ans;
     }
 };

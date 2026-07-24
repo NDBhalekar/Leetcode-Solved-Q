@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0622-design-circular-queue](https://github.com/NDBhalekar/Leecode-Solved-Q/tree/master/0622-design-circular-queue) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NDBhalekar/Leecode-Solved-Q/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2239-find-closest-number-to-zero](https://github.com/NDBhalekar/Leecode-Solved-Q/tree/master/2239-find-closest-number-to-zero) |
 ## Math
@@ -20,4 +21,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NDBhalekar/Leecode-Solved-Q/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Linked List
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/NDBhalekar/Leecode-Solved-Q/tree/master/0622-design-circular-queue) |
+## Design
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/NDBhalekar/Leecode-Solved-Q/tree/master/0622-design-circular-queue) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/NDBhalekar/Leecode-Solved-Q/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->

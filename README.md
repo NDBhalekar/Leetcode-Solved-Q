@@ -33,4 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/NDBhalekar/Leecode-Solved-Q/tree/master/0622-design-circular-queue) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/NDBhalekar/Leecode-Solved-Q/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/NDBhalekar/Leecode-Solved-Q/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

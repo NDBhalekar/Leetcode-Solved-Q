@@ -38,10 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/NDBhalekar/Leecode-Solved-Q/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/NDBhalekar/Leecode-Solved-Q/tree/master/0032-longest-valid-parentheses) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/NDBhalekar/Leecode-Solved-Q/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/NDBhalekar/Leecode-Solved-Q/tree/master/0032-longest-valid-parentheses) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3005-count-elements-with-maximum-frequency](https://github.com/NDBhalekar/Leecode-Solved-Q/tree/master/3005-count-elements-with-maximum-frequency) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/NDBhalekar/Leecode-Solved-Q/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->

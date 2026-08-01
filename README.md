@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NDBhalekar/Leecode-Solved-Q/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/NDBhalekar/Leecode-Solved-Q/tree/master/0217-contains-duplicate) |
 | [0622-design-circular-queue](https://github.com/NDBhalekar/Leecode-Solved-Q/tree/master/0622-design-circular-queue) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NDBhalekar/Leecode-Solved-Q/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2239-find-closest-number-to-zero](https://github.com/NDBhalekar/Leecode-Solved-Q/tree/master/2239-find-closest-number-to-zero) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NDBhalekar/Leecode-Solved-Q/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/NDBhalekar/Leecode-Solved-Q/tree/master/0217-contains-duplicate) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/NDBhalekar/Leecode-Solved-Q/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Counting
 |  |
@@ -58,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/NDBhalekar/Leecode-Solved-Q/tree/master/0032-longest-valid-parentheses) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/NDBhalekar/Leecode-Solved-Q/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->

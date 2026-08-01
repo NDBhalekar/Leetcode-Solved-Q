@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/NDBhalekar/Leecode-Solved-Q/tree/master/0001-two-sum) |
 | [0622-design-circular-queue](https://github.com/NDBhalekar/Leecode-Solved-Q/tree/master/0622-design-circular-queue) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NDBhalekar/Leecode-Solved-Q/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2239-find-closest-number-to-zero](https://github.com/NDBhalekar/Leecode-Solved-Q/tree/master/2239-find-closest-number-to-zero) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/NDBhalekar/Leecode-Solved-Q/tree/master/0001-two-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/NDBhalekar/Leecode-Solved-Q/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Counting
 |  |

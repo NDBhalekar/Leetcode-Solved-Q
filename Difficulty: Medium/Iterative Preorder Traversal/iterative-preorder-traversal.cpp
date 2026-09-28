@@ -1,29 +1,31 @@
+/* Binary Tree Node Structure
+class Node {
+  public:
+    int data;
+    Node* left;
+    Node* right;
+
+    Node(int val) {
+        data = val;
+        left = right = nullptr;
+    }
+};
+*/
 class Solution {
-public:
+  public:
     vector<int> preOrder(Node* root) {
-        vector<int> preorder;
-
-        if (root == NULL)
-            return preorder;
-
-        stack<Node*> st;
+        // code here
+        vector<int>preorder;
+        if(root==NULL)return preorder;
+        stack<Node*>st;
         st.push(root);
-
-        while (!st.empty()) {
-            root = st.top();
+        while(!st.empty()){
+            Node* node = st.top();
             st.pop();
-
-            preorder.push_back(root->data);
-
-            // Right first
-            if (root->right != NULL)
-                st.push(root->right);
-
-            // Left second
-            if (root->left != NULL)
-                st.push(root->left);
+            preorder.push_back(node->data);
+            if(node->right!=NULL)st.push(node->right);
+                  if(node->left!=NULL)st.push(node->left);
         }
-
         return preorder;
     }
 };

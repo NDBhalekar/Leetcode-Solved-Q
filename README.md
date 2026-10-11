@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/NDBhalekar/Leecode-Solved-Q/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/NDBhalekar/Leecode-Solved-Q/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/NDBhalekar/Leetcode-Solved-Q/tree/master/0058-length-of-last-word) |
+| [0557-reverse-words-in-a-string-iii](https://github.com/NDBhalekar/Leetcode-Solved-Q/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Stack
 |  |
 | ------- |
@@ -92,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/NDBhalekar/Leetcode-Solved-Q/tree/master/0102-binary-tree-level-order-traversal) |
+## Two Pointers
+|  |
+| ------- |
+| [0557-reverse-words-in-a-string-iii](https://github.com/NDBhalekar/Leetcode-Solved-Q/tree/master/0557-reverse-words-in-a-string-iii) |
 <!---LeetCode Topics End-->

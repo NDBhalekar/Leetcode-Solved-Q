@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NDBhalekar/Leecode-Solved-Q/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/NDBhalekar/Leetcode-Solved-Q/tree/master/0014-longest-common-prefix) |
 | [0217-contains-duplicate](https://github.com/NDBhalekar/Leecode-Solved-Q/tree/master/0217-contains-duplicate) |
 | [0622-design-circular-queue](https://github.com/NDBhalekar/Leecode-Solved-Q/tree/master/0622-design-circular-queue) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NDBhalekar/Leecode-Solved-Q/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/NDBhalekar/Leetcode-Solved-Q/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/NDBhalekar/Leecode-Solved-Q/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/NDBhalekar/Leecode-Solved-Q/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/NDBhalekar/Leetcode-Solved-Q/tree/master/0058-length-of-last-word) |
@@ -97,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/NDBhalekar/Leetcode-Solved-Q/tree/master/0557-reverse-words-in-a-string-iii) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/NDBhalekar/Leetcode-Solved-Q/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

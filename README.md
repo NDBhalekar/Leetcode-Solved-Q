@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/NDBhalekar/Leetcode-Solved-Q/tree/master/0415-add-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NDBhalekar/Leecode-Solved-Q/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NDBhalekar/Leetcode-Solved-Q/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/NDBhalekar/Leecode-Solved-Q/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/NDBhalekar/Leetcode-Solved-Q/tree/master/0058-length-of-last-word) |
+| [0415-add-strings](https://github.com/NDBhalekar/Leetcode-Solved-Q/tree/master/0415-add-strings) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/NDBhalekar/Leetcode-Solved-Q/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Stack
 |  |
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NDBhalekar/Leetcode-Solved-Q/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/NDBhalekar/Leetcode-Solved-Q/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->

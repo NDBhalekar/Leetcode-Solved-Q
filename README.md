@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/NDBhalekar/Leetcode-Solved-Q/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/NDBhalekar/Leetcode-Solved-Q/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/NDBhalekar/Leetcode-Solved-Q/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0680-valid-palindrome-ii](https://github.com/NDBhalekar/Leetcode-Solved-Q/tree/master/0680-valid-palindrome-ii) |
 ## Stack
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NDBhalekar/Leetcode-Solved-Q/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0443-string-compression](https://github.com/NDBhalekar/Leetcode-Solved-Q/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/NDBhalekar/Leetcode-Solved-Q/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0680-valid-palindrome-ii](https://github.com/NDBhalekar/Leetcode-Solved-Q/tree/master/0680-valid-palindrome-ii) |
 ## Trie
 |  |
 | ------- |
@@ -131,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/NDBhalekar/Leetcode-Solved-Q/tree/master/0415-add-strings) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/NDBhalekar/Leetcode-Solved-Q/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->

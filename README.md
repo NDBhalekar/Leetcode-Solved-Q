@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/NDBhalekar/Leetcode-Solved-Q/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/NDBhalekar/Leetcode-Solved-Q/tree/master/0205-isomorphic-strings) |
 | [0415-add-strings](https://github.com/NDBhalekar/Leetcode-Solved-Q/tree/master/0415-add-strings) |
+| [0443-string-compression](https://github.com/NDBhalekar/Leetcode-Solved-Q/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/NDBhalekar/Leetcode-Solved-Q/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Stack
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NDBhalekar/Leetcode-Solved-Q/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0443-string-compression](https://github.com/NDBhalekar/Leetcode-Solved-Q/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/NDBhalekar/Leetcode-Solved-Q/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Trie
 |  |

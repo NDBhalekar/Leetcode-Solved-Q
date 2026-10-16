@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NDBhalekar/Leecode-Solved-Q/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/NDBhalekar/Leetcode-Solved-Q/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/NDBhalekar/Leetcode-Solved-Q/tree/master/0014-longest-common-prefix) |
 | [0217-contains-duplicate](https://github.com/NDBhalekar/Leecode-Solved-Q/tree/master/0217-contains-duplicate) |
 | [0622-design-circular-queue](https://github.com/NDBhalekar/Leecode-Solved-Q/tree/master/0622-design-circular-queue) |
@@ -137,4 +138,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/NDBhalekar/Leetcode-Solved-Q/tree/master/0680-valid-palindrome-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/NDBhalekar/Leetcode-Solved-Q/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/NDBhalekar/Leetcode-Solved-Q/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
